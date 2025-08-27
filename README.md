@@ -45,3 +45,21 @@ Details: Implemented error handling for corrupt or incorrectly formatted resumes
 Commit: feat: extract candidate details (name, skills, experience)
 
 Details: Wrote NLP scripts using spaCy to extract key information like name, email, phone number, skills, and work experience.
+
+## Day 8 – Job Description Processing
+
+Commit: feat: clean & normalize job descriptions
+
+Details: Preprocessed job descriptions by removing stopwords, lowercasing, and lemmatization. Normalized text to make it suitable for NLP models.
+
+## Day 9 – Structured Resume Data
+
+Commit: data: store structured resume data in JSON/DB
+
+Details: Designed a schema for storing candidate details. Stored parsed and extracted information into JSON format and integrated with MongoDB for structured storage.
+
+## Day 10 – Exploratory Data Analysis
+
+Commit: chore: add initial EDA notebook
+
+Details: Created a Jupyter notebook for exploratory data analysis. Imported sample data and began analyzing text length, word counts, and skill frequency.
