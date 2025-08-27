@@ -15,3 +15,21 @@ Details: Created the base folder structure for the project (src/, data/, ui/, no
 Commit: docs: add project README and .gitignore
 
 Details: Wrote the initial README with project goals and tech stack. Added .gitignore to exclude unnecessary files such as virtual environment folders, cache, and dataset files.
+
+## Day 3 – Sample Data
+
+Commit: data: add sample resumes and job descriptions
+
+Details: Collected a few sample resumes in PDF/DOCX format and job descriptions in text format to test the system. Placed them inside the data/ directory.
+
+## Day 4 – Resume Parser (PDF)
+
+Commit: feat: implement basic resume parser for PDF
+
+Details: Built the first version of the PDF resume parser using pdfminer.six to extract text content from resumes.
+
+## Day 5 – Resume Parser (DOCX)
+
+Commit: feat: implement DOCX parser
+
+Details: Added support for parsing resumes in .docx format using python-docx. Ensured that extracted text is clean and structured for further processing.
