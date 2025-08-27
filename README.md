@@ -9,3 +9,9 @@ The system automates the recruitment workflow by reducing manual effort and prov
 Commit: chore: initialize project structure & setup virtual environment
 
 Details: Created the base folder structure for the project (src/, data/, ui/, notebooks/). Set up a Python virtual environment and installed initial dependencies (Flask, Streamlit, Pandas, NumPy).
+
+## Day 2 – Documentation Setup
+
+Commit: docs: add project README and .gitignore
+
+Details: Wrote the initial README with project goals and tech stack. Added .gitignore to exclude unnecessary files such as virtual environment folders, cache, and dataset files.
