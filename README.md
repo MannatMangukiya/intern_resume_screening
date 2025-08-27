@@ -39,3 +39,9 @@ Details: Added support for parsing resumes in .docx format using python-docx. En
 Commit: fix: handle parsing errors for non-standard resume formats
 
 Details: Implemented error handling for corrupt or incorrectly formatted resumes. Added logging for debugging problematic files.
+
+## Day 7 – Candidate Information Extraction
+
+Commit: feat: extract candidate details (name, skills, experience)
+
+Details: Wrote NLP scripts using spaCy to extract key information like name, email, phone number, skills, and work experience.
