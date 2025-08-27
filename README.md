@@ -33,3 +33,9 @@ Details: Built the first version of the PDF resume parser using pdfminer.six to 
 Commit: feat: implement DOCX parser
 
 Details: Added support for parsing resumes in .docx format using python-docx. Ensured that extracted text is clean and structured for further processing.
+
+## Day 6 – Error Handling in Parsing
+
+Commit: fix: handle parsing errors for non-standard resume formats
+
+Details: Implemented error handling for corrupt or incorrectly formatted resumes. Added logging for debugging problematic files.
