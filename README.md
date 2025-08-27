@@ -4,7 +4,7 @@ This project is an AI-powered Resume Screening App that helps recruiters parse r
 
 The system automates the recruitment workflow by reducing manual effort and providing data-driven candidate shortlisting.
 
-Day 1 – Project Initialization
+## Day 1 – Project Initialization
 
 Commit: chore: initialize project structure & setup virtual environment
 
