@@ -63,3 +63,15 @@ Details: Designed a schema for storing candidate details. Stored parsed and extr
 Commit: chore: add initial EDA notebook
 
 Details: Created a Jupyter notebook for exploratory data analysis. Imported sample data and began analyzing text length, word counts, and skill frequency.
+
+## Day 11 – Data Visualization
+
+Commit: feat: visualize top skills and experience distribution
+
+Details: Used Matplotlib/Seaborn to visualize the most common skills, years of experience, and frequency of keywords in resumes vs. job descriptions.
+
+## Day 12 – Text Preprocessing
+
+Commit: feat: implement text preprocessing (tokenization, lemmatization)
+
+Details: Implemented tokenization and lemmatization using spaCy. Ensured resume and job texts are transformed into clean tokens for modeling.
